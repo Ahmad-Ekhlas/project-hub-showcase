@@ -18,8 +18,6 @@ Designed for individuals who want to scale their ideas but don’t have funding 
 
 ## 🖼️ Screenshots
 
-> (Replace with your actual screenshots, stored in `/media/screenshots/`)
-
 ![Dashboard](./media/screenshots/dashboard.png)  
 *Dashboard – see your projects, contributions, and requests.*
 

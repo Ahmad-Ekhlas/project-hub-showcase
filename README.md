@@ -1,11 +1,11 @@
-# 🚀 Project Hub (Showcase)
+# Project Hub (Showcase)
 
 A web platform built with **Next.js + Supabase** that helps creators find collaborators for their personal projects.  
 Designed for individuals who want to scale their ideas but don’t have funding — connecting them with people seeking real-world project experience.
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Post Projects** – Create detailed postings with descriptions, images, and videos.  
 - **Explore Projects** – Browse projects by category or region.  
@@ -16,7 +16,7 @@ Designed for individuals who want to scale their ideas but don’t have funding 
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ![Dashboard](./media/screenshots/dashboard.png)  
 *Dashboard – see your projects, contributions, and requests.*
@@ -29,14 +29,14 @@ Designed for individuals who want to scale their ideas but don’t have funding 
 
 ---
 
-## 🎥 Demo
+## Demo
 
 ![Quick Walkthrough](./media/gifs/demo.gif)  
 
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Frontend:** Next.js, React, Tailwind CSS  
 - **Backend:** Supabase (Auth, Database, Storage, RLS)  
@@ -45,7 +45,7 @@ Designed for individuals who want to scale their ideas but don’t have funding 
 
 ---
 
-## 📌 Roadmap
+## Roadmap
 
 - ✅ MVP complete: posting, explore, collaboration requests, dashboards, chat  
 - ✅ Media support for project postings (images & videos)  
@@ -55,7 +55,7 @@ Designed for individuals who want to scale their ideas but don’t have funding 
 
 ---
 
-## 💡 About
+## About
 
 **Project Hub** is designed for:  
 - Creators who want to scale projects but can’t hire a team  
@@ -64,7 +64,7 @@ Designed for individuals who want to scale their ideas but don’t have funding 
 
 ---
 
-## 🤝 Get Involved
+## Get Involved
 
 Since this repo is for **showcase only**, the source code is private.  
 If you’d like to collaborate, feel free to reach out!
